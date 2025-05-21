@@ -2,10 +2,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<p align="center">
-  <img src="GIF3.gif" alt="Pixel Graphic" width="100%" />
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Amaan+Here+!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ## 💫 About Me
 Hi! I am a 2nd year computer science student at Delhi Technological University (DTU) with a passion for technology, problem-solving, and making useful projects.
