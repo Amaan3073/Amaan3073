@@ -1,8 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <p align="center">
   <img src="pixel_graphic.gif" alt="Pixel Graphic" width="100%" />
 </p>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Amaan+Here+!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ## 💫 About Me
 Hi! I am a 2nd year computer science student at Delhi Technological University (DTU) with a passion for technology, problem-solving, and making useful projects.
 
@@ -74,5 +75,7 @@ Feel free to read, copy, remix — just don’t forget to use your own social li
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-ali-768b32322/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amaan3073)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
